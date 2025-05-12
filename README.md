@@ -63,6 +63,13 @@ This project explores gender-based survival patterns in the Titanic disaster usi
 - Titanic Dataset (2025). *Historical Passenger Data on the Titanic*.
 
 ---
+## ✅ Skills Demonstrated
 
-## 📎 File Structure
+- Data Wrangling & Cleaning (`pandas`)
+- Statistical Testing (`scipy.stats`)
+- Data Visualization (`matplotlib`, `seaborn`)
+- Exploratory Data Analysis (EDA)
+- Communication of insights with charts and summary metrics
+
+
 
